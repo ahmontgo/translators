@@ -211,7 +211,7 @@ var bibtex2zoteroTypeMap = {
 	"booklet":"book",
 	"manual":"book",
 	"mastersthesis":"thesis",
-	"misc":"book",
+	"misc":"webpage",
 	"proceedings":"book",
 	"online":"webpage",
 	// from BibLaTeX translator:
